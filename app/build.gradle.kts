@@ -104,13 +104,3 @@ dependencies {
     // Additional dependencies
     implementation(libs.converter.gson)
 }
-<<<<<<< Updated upstream
-
-
-
-
-
-
-
-=======
->>>>>>> Stashed changes
