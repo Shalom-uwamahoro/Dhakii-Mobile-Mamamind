@@ -8,7 +8,6 @@ import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 import com.akirachix.mamamindtrial.HomePage
-import com.akirachix.mamamindtrial.NextSignUp
 import com.akirachix.mamamindtrial.R
 import com.akirachix.mamamindtrial.viewModel.SignInViewModel
 import com.akirachix.mamamindtrial.databinding.ActivityMamaMindLoginBinding
