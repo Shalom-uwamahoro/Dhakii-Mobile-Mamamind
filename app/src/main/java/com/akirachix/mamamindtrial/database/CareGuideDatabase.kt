@@ -1,4 +1,4 @@
-//package com.akirachix.mamamindtrial.database
+///package com.akirachix.mamamindtrial.database
 
 import android.content.Context
 import androidx.room.Database
@@ -26,5 +26,3 @@ abstract class CareGuideDatabase : RoomDatabase() {
         }
     }
 }
-
-

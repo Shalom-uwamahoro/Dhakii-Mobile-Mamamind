@@ -43,7 +43,7 @@ class MamamindLogin : AppCompatActivity() {
         setupClickListeners()
 
         binding.signUpText.setOnClickListener{
-            val intent = Intent(this, NextSignUp::class.java)
+            val intent = Intent(this, HomePage::class.java)
             startActivity(intent)
         }
     }

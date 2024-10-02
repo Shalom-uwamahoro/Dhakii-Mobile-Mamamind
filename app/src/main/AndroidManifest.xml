@@ -8,14 +8,11 @@
 
     <application
         android:allowBackup="true"
-<<<<<<< Updated upstream
-        android:icon="@drawable/logoo"
+
         android:label="@string/MamaMind"
         android:roundIcon="@drawable/logoo"
-=======
         android:icon="@drawable/mamamindlogo"
-        android:roundIcon="@drawable/mamamindlogo"
->>>>>>> Stashed changes
+
         android:supportsRtl="true"
         android:theme="@style/Theme.MamaMindTrial"
 
