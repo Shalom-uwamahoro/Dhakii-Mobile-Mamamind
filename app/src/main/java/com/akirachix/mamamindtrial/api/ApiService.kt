@@ -1,7 +1,7 @@
 
 package com.akirachix.mamamindtrial.api
-import com.akirachix.mamamindtrial.CareGuideArticle
 
+import CareGuideArticle
 import retrofit2.http.GET
 import retrofit2.Call
 import retrofit2.http.Path
