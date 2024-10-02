@@ -1,5 +1,6 @@
 package com.akirachix.mamamindtrial
 
+import CareGuideFragment
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -34,11 +35,6 @@ class HomePage : AppCompatActivity() {
                     // Start MainActivity2 when Mothers is selected
                     val intent = Intent(this, MainActivity2::class.java)
                     startActivity(intent)
-                    true
-                }
-                R.id.profile -> {
-                    // Load ProfileFragment when Profile is selected
-                    loadFragment(ProfileFragment())
                     true
                 }
                 else -> false
